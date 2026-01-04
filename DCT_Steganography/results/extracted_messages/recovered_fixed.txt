@@ -1,0 +1,4 @@
+This is a top secret message!
+It contains confidential information that should be hidden.
+The DCT steganography system will embed this securely.
+

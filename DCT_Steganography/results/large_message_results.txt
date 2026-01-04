@@ -1,0 +1,19 @@
+
+Additional Results - Large Message Test (690 bytes):
+
++--------------------------+--------------+
+| Metric                   | Value        |
++--------------------------+--------------+
+| Original Message Size    | 690 bytes    |
+| Protected Data Size      | 974 bytes    |
+| PSNR                     | 50.36 dB     |
+| SSIM                     | 0.9985       |
+| Embedding Strength       | 3            |
+| Extraction Status        | Success      |
++--------------------------+--------------+
+
+Key Findings:
+- PSNR: 50.36 dB (excellent, >50 dB threshold)
+- SSIM: 0.9985 (nearly perfect structural similarity)
+- Successfully embedded and extracted 690-byte message
+- System maintains high quality even with larger payloads
